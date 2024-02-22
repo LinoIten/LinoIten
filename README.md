@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats-linoiten.vercel.app/api?username=linoiten&show_icons=true&theme=transparent)
 <!--
 **LinoIten/LinoIten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
