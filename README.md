@@ -4,22 +4,7 @@ My name is Lino Iten, I'm 21, and I'm a computer science student at HSLU (Lucern
 
 I'm currently working on a mobile game called Pixel Odyssey with React Native and Expo.
 
-### 📚 I’m interested in
+| <img align="center" src="https://github-readme-stats-linoiten.vercel.app/api/?username=linoiten&show_icons=true&theme=transparent&hide=prs" alt="GitHub Stats" /> | **📚 I’m interested in**<br>- Game Design<br>- User Experience<br>- Mobile Development<br>- Web Development |
+| --- | --- |
+| <img align="center" src="https://github-readme-stats-linoiten.vercel.app/api/top-langs/?username=linoiten&layout=compact&theme=transparent" alt="Most Used Languages" /> | **⚡ Fun fact**<br>I like to play the guitar. |
 
-- Game Design
-- User Experience
-- Mobile Development
-- Web Development
-
-### ⚡ Fun fact
-
-I like to play the guitar.
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/linoiten">
-    <img src="https://github-readme-stats-linoiten.vercel.app/api/?username=linoiten&show_icons=true&theme=transparent&hide=prs" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats-linoiten.vercel.app/api/top-langs/?username=linoiten&layout=compact&theme=transparent" alt="Most Used Languages" height="150" />
-  </a>
-</p>
