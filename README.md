@@ -13,7 +13,7 @@ I'm currently working on a mobile game called Pixel Odyssey with React Native an
 
 What is it, you ask? It's a hyper-casual MMORPG designed for quick play sessions on mobile devices.
 
-## 🌟 Reviews
+# 🌟 Reviews
 
 > *Simplicity is beauty. That's it, if you are looking for a game to remove your stress, to enjoy, or a game that you can play without committing lots of your time. This is the game for you.*
 >   - John Mendoza
