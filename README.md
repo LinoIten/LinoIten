@@ -32,6 +32,5 @@ I like to play the guitar.
 
 ### 📈 GitHub Stats
 
-![Lino's GitHub stats](https://github-readme-stats-linoiten.vercel.app/api?username=linoiten&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats-linoiten.vercel.app/api/top-langs/?username=linoiten&layout=compact&theme=transparent)
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=linoiten&show_icons=true&theme=transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linoiten&layout=compact&theme=transparent" />
