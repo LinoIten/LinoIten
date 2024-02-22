@@ -1,6 +1,6 @@
 # Hello there 👋
 
-*I'm 21 years old and a computer science student at HSLU (Lucerne University of Applied Sciences and Arts). *
+<bold>I'm 21 years old and a computer science student at HSLU (Lucerne University of Applied Sciences and Arts). <bold>
 
 I'm currently working on a mobile game called Pixel Odyssey with React Native and Expo.
 
