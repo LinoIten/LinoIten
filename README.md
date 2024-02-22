@@ -11,10 +11,9 @@ I'm currently working on a mobile game called Pixel Odyssey with React Native an
 
 ### ⚔️ Pixel Odyssey
 
-What is it, you ask? It's a hyper-casual MMORPG designed for quick play sessions on mobile devices. D
+What is it, you ask? It's a hyper-casual MMORPG designed for quick play sessions on mobile devices.
 
 ## 🌟 Reviews
-
 - Review 1: 
 - Review 2: 
 - Review 3: 
