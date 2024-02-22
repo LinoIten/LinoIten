@@ -1,19 +1,19 @@
-### Hello there 👋
+# Hello there 👋
 
 I'm 21 years old and a computer science student at HSLU (Lucerne University of Applied Sciences and Arts). 
 
 I'm currently working on a mobile game called Pixel Odyssey with React Native and Expo.
 
-### 🚀 Quick Info
+## 🚀 Quick Info
 
 - **📚 Interests:** Game Design, User Experience, Mobile Development, Web Development
 - **⚡ Fun Fact:** I like to play the guitar
 
-### ⚔️ Pixel Odyssey
+## ⚔️ Pixel Odyssey
 
 What is it, you ask? It's a hyper-casual MMORPG designed for quick play sessions on mobile devices.
 
-# 🌟 Reviews
+### 🌟 Reviews
 
 > *Simplicity is beauty. That's it, if you are looking for a game to remove your stress, to enjoy, or a game that you can play without committing lots of your time. This is the game for you.*
 >   - John Mendoza
@@ -26,7 +26,7 @@ What is it, you ask? It's a hyper-casual MMORPG designed for quick play sessions
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.linoiten.pixelworld%26gl%3DCH%26hl%3Den%26l%3DAndroid%26m%3D%24rating&style=flat&label=%F0%9F%8C%9F%20%20Rating%20&color=%233a3aec)
 
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats-linoiten.vercel.app/api/?username=linoiten&show_icons=true&theme=transparent&hide=prs" alt="GitHub Stats" height="150"/>
