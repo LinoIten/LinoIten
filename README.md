@@ -20,6 +20,6 @@ I like to play the guitar.
 ### 📈 GitHub Stats
 
 <div>
-    <img align="center" src="https://github-readme-stats-linoiten.vercel.app/api/?username=linoiten&show_icons=true&theme=transparent&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats-linoiten.vercel.app/api/?username=linoiten&show_icons=true&theme=transparent&hide=prs" />
     <img align="center" src="https://github-readme-stats-linoiten.vercel.app/api/top-langs/?username=linoiten&layout=compact&theme=transparent" />
 </div>
